@@ -1,1 +1,2 @@
-this is code to unserstand linear search and binary search
+this is repository is to save Data Structure Assignments
+
