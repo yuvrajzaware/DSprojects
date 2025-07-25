@@ -1,2 +1,2 @@
-this is repository is to save Data Structure Assignments
+this is repository  to save Data Structure Assignments
 
